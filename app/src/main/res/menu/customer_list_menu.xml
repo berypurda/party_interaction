@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/search_bar"
+        android:title="Search"
+        android:icon="@drawable/ic_search"
+        app:showAsAction="always"
+        app:actionViewClass="android.widget.SearchView"
+        android:orderInCategory="1"
+        />
+
+    <item
+        android:id="@+id/view_selector"
+        android:title="View"
+        android:icon="@drawable/ic_view_module"
+        app:showAsAction="always"
+        android:orderInCategory="3"
+        />
+
+    <item
+        android:id="@+id/log_out_button"
+        android:title="Logout"
+        app:showAsAction="never"
+        android:orderInCategory="5"
+        />
+
+
+</menu>

@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Party Interaction</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="repeat_password">Repeat Password</string>
+    <string name="username">Username</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="gender">gender</string>
+    <string name="description">Description</string>
+    <string name="adatok_t_rl_se">Adatok törlése</string>
+    <string name="adatok_m_dos_t_sa">Adatok módosítása</string>
+
+    <string-array name="customer_names">
+        <item>Albert Einstein</item>
+        <item>Brad Pitt</item>
+        <item>Clint Eastwood</item>
+        <item>Eddie Murphy</item>
+        <item>Eminem</item>
+        <item>Johnny Depp</item>
+        <item>Madonna</item>
+        <item>Mark Wahlberg</item>
+        <item>Natalie Portman</item>
+        <item>Robert Downey Jr</item>
+        <item>Scarlett Johansson</item>
+        <item>Tom Hanks</item>
+    </string-array>
+
+    <string-array name="customer_descriptions">
+        <item>Nagyon okos ember</item>
+        <item>Legjobb színész</item>
+        <item>Nagy ember</item>
+        <item>Vicces ember</item>
+        <item>Fehér rapper</item>
+        <item>Nehéz felismerni filmekben de igazából nem is</item>
+        <item>Legendás pop énekesnő</item>
+        <item>Szimpatikus ember</item>
+        <item>Legjobb színésznő</item>
+        <item>Iron Man IRL</item>
+        <item>Elég jó szinésznő</item>
+        <item>Legendás Színész</item>
+    </string-array>
+
+    <string-array name="customer_gender">
+        <item>Férfi</item>
+        <item>Férfi</item>
+        <item>Férfi</item>
+        <item>Férfi</item>
+        <item>Férfi</item>
+        <item>Férfi</item>
+        <item>Nő</item>
+        <item>Férfi</item>
+        <item>Nő</item>
+        <item>Férfi</item>
+        <item>Nő</item>
+        <item>Férfi</item>
+
+    </string-array>
+
+
+    <array name="customer_images">
+        <item>@drawable/albert_einstein</item>
+        <item>@drawable/brad_pitt</item>
+        <item>@drawable/clint_eastwood</item>
+        <item>@drawable/eddie_murphy</item>
+        <item>@drawable/eminem</item>
+        <item>@drawable/johnny_depp</item>
+        <item>@drawable/madonna</item>
+        <item>@drawable/mark_wahlberg</item>
+        <item>@drawable/natalie_portman</item>
+        <item>@drawable/robert_downey_jr_</item>
+        <item>@drawable/scarlett_johansson</item>
+        <item>@drawable/tom_hanks</item>
+    </array>
+
+    <string-array name="customer_email">
+        <item>alberteinstein@gmail.com</item>
+        <item>bradpitt@gmail.com</item>
+        <item>clinteastwood@hotmail.com</item>
+        <item>eddiemurphy@yahoo.com</item>
+        <item>eminem@citromail.hu</item>
+        <item>johnnydepp@hotmail.com</item>
+        <item>madonna@gmail.com</item>
+        <item>markwahlberg@hotmail.com</item>
+        <item>natalieportman@gmail.com</item>
+        <item>robertJR@hotmail.com</item>
+        <item>scarlettjohansson@hotmail.com</item>
+        <item>tomhanks@yahoo.com</item>
+
+    </string-array>
+
+</resources>
